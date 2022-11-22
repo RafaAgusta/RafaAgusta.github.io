@@ -1,0 +1,11 @@
+.atas{
+  background-color: gray;
+}
+
+td{
+  border-radius: 10px;
+}
+
+td:hover{
+  background-color: orange;
+}
